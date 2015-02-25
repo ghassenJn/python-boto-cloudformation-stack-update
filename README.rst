@@ -17,7 +17,7 @@ Install boto:
 
 Configure:
 
-.. URL: http://boto.readthedocs.org/en/latest/boto_config_tut.html
+    Refer to this URL: http://boto.readthedocs.org/en/latest/boto_config_tut.html
 
 Running
 =======
