@@ -1,6 +1,6 @@
-==============================================
-AWS Cloudformation Stack Updater - Python Boto
-==============================================
+================================
+AWS Cloudformation Stack Updater
+================================
 
 This script allows updating AWS Cloudformation stack by specifiing region, stack name, template body and template parameters.
 
