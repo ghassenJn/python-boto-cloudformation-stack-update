@@ -1,0 +1,14 @@
+[
+            {
+              "ParameterKey": "InstanceType",
+              "ParameterValue": "t1.micro"
+            },
+            {
+              "ParameterKey": "KeyName",
+              "ParameterValue": "ap-southeast-2"
+            },
+            {
+              "ParameterKey": "SSHLocation",
+              "ParameterValue": "0.0.0.0/0"
+            }
+]
